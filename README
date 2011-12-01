@@ -1,9 +1,28 @@
-Scottish Technical Standards
+Scottish-Technical-Standards--Domestic-//
+/////////////////////////////////////////
+
+Copyright (c) 2011 by Lewis John McGibbney, School of Engineering and Built
+Environment, Glasgow Caledonian University
+====
+
+@author: Lewis John McGibbney
+@contact: lewis.mcgibbney@gcu.ac.uk
+@organization: Glasgow Caledonian University
+@version: 2010
+@website: https://github.com/lewismc
+@copyright: 2011, Lewis John McGibbney, Glasgow Caledonian University
+
+@license: Scottish-Technical-Standards--Domestic- are produced by
+the Scottish Government's Building Standards Division. The material here
+is released under no license as it is essentially property of the Scottish 
+Tax payer. As it is free software, you can redistribute it and/or modify
+it as you wish.
+====
 
 Scottish Ministers are responsible for Building Standards in Scotland 
 with the key purpose of protecting the public interest, creating Building 
 Regulations and preparing technical guidance to ensure buildings are safe, 
-efficient and sustainable for all.Both the domestic and non domestic 2011 
+efficient and sustainable for all. Both the domestic and non domestic 2011 
 Technical Handbooks have now been consolidated to include publication errata 
 and the changes brought about by the Building (Scotland) Amendment Regulations 
 2011. These versions now include the new Section 7: Sustainability alongside 
@@ -16,11 +35,36 @@ the guidance in the 2011 Technical Handbooks that will apply from 3 October
 2011. These changes are in respect of Section 2: (Clarifying fire and rescue 
 water supplies), Section 3: (Radon mapping) and Section 4 (Protective barriers). 
 The handbooks were consolidated in May 2011 for minor changes, publication 
-errata and Section 7: Sustainability.The Individual Technical Handbook 
+errata and Section 7: Sustainability. The Individual Technical Handbook 
 sections, and previous yearly editions, can be accessed via the link below. 
 Hard copies of the 2010 handbook can be ordered through 'The Stationery Office'. 
 The handbooks published prior to 2009 came into force on the May 1 of the respective year.
 
-All Scottish Technical Standards can be viewed at 
-http://www.scotland.gov.uk/Topics/Built-Environment/Building/Building-standards/publications/pubtech 
+All Scottish Technical Standards can be viewed at here [1]
+====
+
+This software project is part of a larger effort to represent Scottish Technical 
+Standards as new sets of rules. This would be to enable easier conversion of 
+library data into RDF for usage in the semantic web.
+
+In particular this project acts as a novel method for the drafting
+of Scottish Technical Standards. Through use of client-side technologies
+such as the Eclipse IDE [2], it is possible to create a more cohesive development
+platform for professionals tasked with the drafting of Scottish Technical Standards.
+This encourages increased collaboration between all stakeholders, in addition
+to enabling a far greater potential for uptake by the public and professionals
+working within the domain of sustainable design and construction alike. 
+
+This methodology stems from the argument that the drafting of Legisaltion, including
+Scottish Statutory Instruments such as Scottish Technical Standards should be 
+carried out similar to the that of software development and that it should be tracked
+through a source code management platform, where there is control 
+over when content has been created/edited/authored/published etc.
+
+Associated projects within this suite
+can be found at https://github.com/lewismc
+====
+
+[1] http://www.scotland.gov.uk/Topics/Built-Environment/Building/Building-standards/publications/pubtech
+[2] http://www.eclipse.org
 
